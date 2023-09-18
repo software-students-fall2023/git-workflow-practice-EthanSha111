@@ -15,7 +15,7 @@ What struck me most was how he explained the impact of the 'unknown unknowns'—
 Feel free to share your thoughts or suggest more fascinating reads!
 
 ---
-##Merry's Comment:
+## Merry's Comment:
 I realized that, on average, software projects tend to take longer than what developers 
 initially estimate. This happens because the distribution of project completion times is not even. 
 While developers can provide pretty accurate estimates for when there's a 50% chance of 
