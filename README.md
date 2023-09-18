@@ -22,3 +22,6 @@ While developers can provide pretty accurate estimates for when there's a 50% ch
 finishing (the median), the actual average time often turns out to be much longer. This 
 can lead to delays in software projects. So, it's essential to consider the full range of 
 completion times when planning and estimating software development tasks.
+
+## Richard's Comment:
+From my own experience, I've often seen that software projects tend to stretch beyond the initial timeframes we developers set. It's not just about being overly optimistic; the time distribution for completing projects isn't consistent. We might nail down the median time, thinking there's a good shot at wrapping up by then. But in reality, the average time often surpasses our best guesses, leading to those all-too-familiar project delays. That's why I've learned the hard way that it's vital to think about the broad spectrum of possible completion times when I'm planning and estimating my software tasks.
